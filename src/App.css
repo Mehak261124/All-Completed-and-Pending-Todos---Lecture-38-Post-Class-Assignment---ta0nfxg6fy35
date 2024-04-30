@@ -1,0 +1,17 @@
+#navbar {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: rgb(21, 189, 236);
+}
+
+#navbar > div {
+  background-color: #f1f1f1;
+  display: flex;
+  width: 100px;
+  margin: 10px;
+
+  line-height: 40px;
+  font-size: 25px;
+  justify-content: center;
+  align-items: center;
+}
